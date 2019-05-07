@@ -1,5 +1,16 @@
-## About HTML Encrypter
-HTML encrypter protect web pages source code, its hard for people to decrypt the source code but it displays perfectly in a browser. No AdBlocker can read it. It encrypt on the fly and only the web browser can read it.
+## What is it?
+HTML encrypter protect web pages source code, its hard for people to decrypt the source code but it displays perfectly in a browser. No AdBlocker can read it. It encrypt on the fly and only the web browser can read it. 
+The size of the first block of code depends on the size of your web page, it contains your original HTML. The second block of code always stays the same length, it contains the decode function. When opened in a web browser, the original page appears to be unchanged, but the code underneath has been transformed.
+
+## Features
+ - Protect HTML code against fast cribbing copying
+ - Encode local HTML to prevent in-file searching
+ - Protect unfinished websites from Google
+ - Confuse people who press the “View Source” button :D
+ - Become part of the invisible web, hide from search engines and data miners ;)
+ - Very lightweight and working on-the-fly
+ - There is no decompiler yet. 
+ 
 ## How to install
  - git clone https://github.com/moh4mmad/html-encrypter.git
 ## Usage
