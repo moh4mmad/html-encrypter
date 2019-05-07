@@ -56,5 +56,8 @@ th, td {
 </body>
 </html>
 ```
+## Demo
+https://sakib.info/html_encrypter/
+
 ## Issues
 If you come across any issues please report them [here](https://github.com/moh4mmad/html-encrypter/issues)
