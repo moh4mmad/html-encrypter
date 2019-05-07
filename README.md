@@ -1,6 +1,6 @@
 ## What is it?
 HTML encrypter protect web pages source code, its hard for people to decrypt the source code but it displays perfectly in a browser. No AdBlocker can read it. It encrypt on the fly and only the web browser can read it. 
-The size of the first block of code depends on the size of your web page, it contains your original HTML. The second block of code always stays the same length, it contains the decode function. When opened in a web browser, the original page appears to be unchanged, but the code underneath has been transformed.
+The size of the first block of code depends on the size of web page, it contains original HTML. The second block of code always stays the same length, it contains the decode function. When opened in a web browser, the original page appears to be unchanged, but the code underneath has been transformed.
 
 ## Features
  - Protect HTML code against fast cribbing copying
