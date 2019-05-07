@@ -9,7 +9,6 @@ The size of the first block of code depends on the size of web page, it contains
  - Confuse people who press the “View Source” button :D
  - Become part of the invisible web, hide from search engines and data miners ;)
  - Very lightweight and working on-the-fly
- - There is no decompiler yet. 
  
 ## How to install
  - git clone https://github.com/moh4mmad/html-encrypter.git
