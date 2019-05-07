@@ -1,0 +1,16 @@
+{
+    "name": "sakib/htmlencrypter",
+    "description": "HTML encrypter protect web pages source code, its hard for people to decrypt the source code but it displays perfectly in a browser. No AdBlocker can read it. It encrypt on the fly and only the web browser can read it",
+    "type": "library",
+    "require": {
+        "php": "5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad sakib",
+            "email": "sakib@sakib.info"
+        }
+    ],
+    "minimum-stability": "dev"
+}
