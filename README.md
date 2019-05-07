@@ -6,7 +6,7 @@ The size of the first block of code depends on the size of web page, it contains
  - Protect HTML code against fast cribbing copying
  - Encode local HTML to prevent in-file searching
  - Protect unfinished websites from Google
- - Confuse people who press the “View Source” button :D
+ - Confuse user who click the “View Source” button :D
  - Become part of the invisible web, hide from search engines and data miners ;)
  - Very lightweight and working on-the-fly
  
