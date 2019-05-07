@@ -5,10 +5,12 @@ HTML encrypter protect web pages source code, its hard for people to decrypt the
 ## Usage
  - To encrypt the whole page
  ```php
+ <?php
 require_once 'src/HtmlEncryptor.class.php';
 
 $html = new Html\Encryptor;
 $html->Encrypt();
+?>
 ```
 - To encrypt a part in a page
 ```php
@@ -32,7 +34,9 @@ th, td {
 <body>
 <h2>Table Caption</h2>
 <p>To add a caption to a table, use the caption tag.</p>
+
 <?php $html->Encrypt(); ?>
+
 <table style="width:100%">
   <caption>Monthly savings</caption>
   <tr>
