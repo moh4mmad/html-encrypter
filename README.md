@@ -62,7 +62,7 @@ th, td {
     <td>$50</td>
   </tr>
 </table>
-
+<?php $html->EncryptionEnd(); ?>
 </body>
 </html>
 ```
