@@ -43,6 +43,12 @@ class Encryptor {
 		ob_start(array($this,'HtmlEncryptor'));
 	}
 	
+	public function EncryptionEnd()
+	{
+		ob_end_flush();
+	}
+	
+	
 	public function HtmlEncryptor($buffer)
 	{
 		if ( rand(0, 1) ) {
